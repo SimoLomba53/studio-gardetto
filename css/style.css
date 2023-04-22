@@ -7,6 +7,11 @@
     color:black;
 }
 
+.navbar li a:hover{
+  color: #3bbce1;
+}
+
+
 .backwallpaper{
     background-image: url(https://images.pexels.com/photos/298611/pexels-photo-298611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     background-size: cover;
