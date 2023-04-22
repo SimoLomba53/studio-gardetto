@@ -1,0 +1,29 @@
+.navbar{
+    list-style: none;
+}
+
+.navbar li a{
+    text-decoration: none;
+    color:black;
+}
+
+.backwallpaper{
+    background-image: url(https://images.pexels.com/photos/298611/pexels-photo-298611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+
+.welcome{
+    height:60vh;
+}
+
+.illustration{
+    margin-top: 200px;
+    margin-bottom: 150px;
+}
+
+.illustration img{
+    width: 100%;
+}
+
