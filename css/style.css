@@ -52,5 +52,8 @@ button{
     padding:10px;
 }
 
+.footlist li{
+    list-style-type: none;
+}
 
 
