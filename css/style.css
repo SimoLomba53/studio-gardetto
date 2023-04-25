@@ -1,11 +1,18 @@
+
+
 .navbar{
     list-style: none;
-    font-family:'Cabin', sans-serif;
+    font-family:'Fjalla One', sans-serif;
 }
 
 header{
-    font-family:'Cabin', sans-serif;
+    font-family:'Fjalla One', sans-serif;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.intro h1{
+  color: #3bbce1;
+  font-family:'Fjalla One', sans-serif;
 }
 
 .navbar li a{
@@ -20,15 +27,26 @@ header{
 .illustration h1{
     font-family:'Cabin', sans-serif;
     
+    
+}
+
+.illustration h3{
+    color: #3bbce1;
+   
 }
 
 
 .backwallpaper{
-    background-image: url(https://images.pexels.com/photos/298611/pexels-photo-298611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-image: url(https://www.cliniquedentairegardus.com/images/header_home.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 80vh;
     font-family:'Cabin', sans-serif;
+}
+
+.backwallpaper h1{
+    font-family:'Fjalla One', sans-serif;
+    font-size: 70px;
 }
 
 .welcome{
@@ -38,6 +56,11 @@ header{
 .illustration{
     margin-top: 200px;
     margin-bottom: 150px;
+}
+
+.illustration h1{
+    font-family:'Fjalla One', sans-serif;
+    
 }
 
 .illustration img{
@@ -54,6 +77,19 @@ button{
 
 .footlist li{
     list-style-type: none;
+    text-decoration: none;
 }
+
+.footlist li a{
+  text-decoration: none;
+  color: black;
+}
+
+
+.footlist li a:hover{
+  color:#ed5ea3;
+}
+
+
 
 
