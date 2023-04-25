@@ -63,6 +63,11 @@ header{
     
 }
 
+.illustration h1{
+    font-family:'Fjalla One', sans-serif;
+    
+}
+
 .illustration img{
     width: 100%;
 }
